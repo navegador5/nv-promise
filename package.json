@@ -1,0 +1,42 @@
+{
+  "name": "notandor-promise",
+  "version": "1.0.0",
+  "description": "notandor-promise is a simple tool for many promises,support more condition and self-defined condition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navegador5/nv-promise.git"
+  },
+  "keywords": [
+    "promise",
+    "self-defined-resolve-condition",
+    "self-defined-reject-condition",
+    "all",
+    "all_not",
+    "any",
+    "any_not",
+    "at_least_some",
+    "at_least_some_not",
+    "must_some",
+    "must_some_not",
+    "one",
+    "one_not",
+    "at_least_certain",
+    "at_least_certain_not",
+    "must_certain",
+    "must_certain_not",
+    "all_settled",
+    "any_settled",
+    "at_least_some_settled",
+    "at_least_certain_settled"
+  ],
+  "author": "navegador5",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navegador5/nv-promise/issues"
+  },
+  "homepage": "https://github.com/navegador5/nv-promise#readme"
+}

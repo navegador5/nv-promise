@@ -1,0 +1,7 @@
+RESOURCE/
+TEST/
+TOOL/
+dist/
+node_modules/
+readme.rst
+README.rst
